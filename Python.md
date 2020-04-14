@@ -17,6 +17,8 @@ plt.ylabel('Amplitude(Volt)')
 # Schrodinger Equation
 In 1926, Erwin Schrodinger advanced the famous wave equation that relates the energy of a system to its wave properties. Because its application to the hydrogen atom is rather complicated, we shall first use wave equation to solve the particle-in-a-box. The Schrodinger Wave equation expressing in 1D is
 
+$\sum_{n=1}^{10} n^2$
+
 \begin{equation*}
 $$\frac {\partial^2 \varphi}{\partial x^2} +  \frac{ 8\pi^2 m}{ h^2} (E-V) \varphi = 0$$
 \end{equation*}
