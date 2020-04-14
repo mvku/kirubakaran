@@ -1,5 +1,7 @@
- <!doctype html>
-<html lang="en">
+ <script type="text/javascript" async
+src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js? 
+config=TeX-MML-AM_CHTML"
+</script>
 # Quantum Physics Visualization with Python Code
 
  On this blog, I would like to explain the concepts of Quantum Phyics for college level students to understand very hard core Qunatum mechnanics in a very simple way of approach
@@ -22,7 +24,7 @@ In 1926, Erwin Schrodinger advanced the famous wave equation that relates the en
 $\sum_{n=1}^{10} n^2$
 
 \begin{equation*}
-$$\frac {\partial^2 \varphi}{\partial x^2} +  \frac{ 8\pi^2 m}{ h^2} (E-V) \varphi = 0$$
+\frac {\partial^2 \varphi}{\partial x^2} +  \frac{ 8\pi^2 m}{ h^2} (E-V) \varphi = 0
 \end{equation*}
 
 
