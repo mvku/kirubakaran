@@ -7,7 +7,7 @@
       marquee{
       font-size: 30px;
       font-weight: 800;
-      color: #8ebf42;
+      color: #FF0000;
       font-family: sans-serif;
       }
     </style>
