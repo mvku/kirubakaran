@@ -1,6 +1,15 @@
- # Qunatum Mechanics
+ # Quantum Mechanics
  
- I would like to teach basic science thorugh some Pyhton based visuvalizations techniques for School and College Students 
+ I would like to teach basic science through some Python based visuvalizations techniques for School and College Students 
 ```
-jupyter labextension install jupyterlab-jupytext@0.19
+import numpy as np
+import matplotlib.pyplot as plt
+
+x = np.linspace(1,100,100)
+y = np. sin(x)
+
+plt.plot (x,y,'-r)
+plt.title(' sine wave generation')
+plt.xlabel('Time(s)')
+plt.ylabel('Amplitude(Volt)')
 ```
