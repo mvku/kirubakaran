@@ -1,4 +1,4 @@
-# Welcome to ![Kirubakaran MSc. MPhil](kiruba.JPG) Homepage 
+# Welcome to R Kirubakaran MSc. MPhil ![Kirubakaran](kiruba.JPG) Homepage 
 
 Assitant Professor
 ANJA College 
