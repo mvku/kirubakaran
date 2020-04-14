@@ -1,9 +1,9 @@
 # Welcome to  R Kirubakaran MSc. MPhil Homepage 
 
 
-![kirubha](kiruba.JPG)
+![kirubha](kiruba.JPG) Assitant Professor, ANJA College, Siva kasi-626124
 
-Assitant Professor, ANJA College, Siva kasi-626124
+
 
 <p style='text-align: justify;'>
 Currently I am doing working as a Assistant Professor in ANJA College in Sivakasi, I have done my MPhil research in Physics at Madurai Kamaraj University, Madurai, and completed masters in physics at V.H.N.S.N college, virudhunagar</p>
