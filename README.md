@@ -1,4 +1,4 @@
-# Welcome to [Kirubakaran MSc. MPhil](VijayKumar_CV.pdf) Homepage 
+# Welcome to ![Kirubakaran MSc. MPhil](kiruba.JPG) Homepage 
 
 		Assitant Professor, 
     ANJA College 
