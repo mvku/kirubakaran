@@ -1,7 +1,4 @@
- <script type="text/javascript" async
-src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js? 
-config=TeX-MML-AM_CHTML"
-</script>
+
 # Quantum Physics Visualization with Python Code
 
  On this blog, I would like to explain the concepts of Quantum Phyics for college level students to understand very hard core Qunatum mechnanics in a very simple way of approach
@@ -20,6 +17,12 @@ plt.ylabel('Amplitude(Volt)')
 
 # Schrodinger Equation
 In 1926, Erwin Schrodinger advanced the famous wave equation that relates the energy of a system to its wave properties. Because its application to the hydrogen atom is rather complicated, we shall first use wave equation to solve the particle-in-a-box. The Schrodinger Wave equation expressing in 1D is
+
+
+<script type="text/javascript" async
+src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js? 
+config=TeX-MML-AM_CHTML"
+</script>
 
 $\sum_{n=1}^{10} n^2$
 
