@@ -64,3 +64,8 @@ Microsoft Windows, and DOS and Linux
 C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programming](https://www.arduino.cc/en/Guide/ArduinoUno){:target="_blank"}
 
 ----------------------------------
+
+## Scientific Research Publications 
+
+
+## National and International Conference/Seminar attended
