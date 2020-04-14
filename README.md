@@ -26,8 +26,11 @@ Currently I am working as a Assistant Professor in ANJA College in Sivakasi, I h
 
 
 ## Research and Teaching interests
-<p style='text-align: justify;'> 
-</p>
+* Electrodynamics 
+* Spectroscopy 
+* Thermodynamics
+* Thinfilms 
+
 
 ## Scientific Skills
 <p style='text-align: justify;'> 
