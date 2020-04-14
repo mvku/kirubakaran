@@ -1,5 +1,5 @@
-# Welcome to  ![R Kirubakaran MSc. MPhil](kiruba.JPG) Homepage 
-
+# Welcome to  ![](kiruba.JPG) Homepage 
+R Kirubakaran MSc. MPhil
 Assitant Professor
 ANJA College 
 Siva kasi
