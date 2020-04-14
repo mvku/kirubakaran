@@ -11,12 +11,11 @@ Currently I am doing working as a Assistant Professor in ANJA College in Sivakas
 
 ## Research and Teaching interests
 <p style='text-align: justify;'> 
-Microfluidics and Nanofluidics, Particle dynamics in 3D Channels, nano-colloids/nanoparticles,
-phase transition in soft matter (self-assemblies of liquid crystals molecules, plastic crystals, polymers and gels), X-ray study on soft matter, Rheological study of hydrogel, biological systems, solid/liquid interface, surface treatment, polymer network, Polarizing Optical Microscopy, Image processing, nano-scale confinement study, polarizing optical microscopy, optical Switching, Electro optical study, X-ray, dielectric spectroscopy and calorimetric studies on soft matter. </p>
+</p>
 
 ## Scientific Skills
 <p style='text-align: justify;'> 
-Microfluidics device development and fabrications, soft lithography, etching, PDMS processing, Optical devices, LCD devices, Lasers and optoelectronics, polarizing optical microscopy, Optical manipulations, Xray techniques, Oscillatory rheological techniques, Surface treatment, polymer alignment, ITO electrode pattern formation, surface treatment, nanoparticles composite preparations, image processing, dielectric spectroscopy measurements, x-ray techniques and Electronics and Electrical Circuit Designing and, Instrumentation. </p>
+</p>
 
 
 ## Computer Skills
@@ -39,10 +38,9 @@ Microsoft Windows, and DOS and Linux
 ----------------------------------
  
 ## Language & Software
-### Matlab
-* Particle Image Velocimetry (PIV)
-* Fluorescence Particle Tracking
-* Single Particle Tracking 
+* C++ and C
+* Python
+* Latex
 
 ----------------------------------
 
