@@ -64,10 +64,17 @@ Microsoft Windows, and DOS and Linux
 C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programming](https://www.arduino.cc/en/Guide/ArduinoUno){:target="_blank"}
 
 ----------------------------------
+## Membership in Acadamic/Professional Bodies
+
+1.	AYYA NADAR JANAKI AMMAL COLLEGE	Programme officer , World University Service
+2.	AYYA NADAR JANAKI AMMAL COLLEGE	Editorial Assistant, ANJAC Student Magazine for Science
+3.	AYYA NADAR JANAKI AMMAL COLLEGE	Member, CDC, ANJAC
 
 ## Scientific Research Publications 
 
 
 ## National and International Conference/Seminar attended
-1	Attended an Orientation course, Bharathiar University, Coimbatore 2016
-2	Attended a Refresher Course, Bharathiar University, Coimbatore 2018
+
+1.	Attended an Orientation course, Bharathiar University, Coimbatore 2016
+
+2.	Attended a Refresher Course, Bharathiar University, Coimbatore 2018
