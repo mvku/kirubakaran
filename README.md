@@ -69,3 +69,5 @@ C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programm
 
 
 ## National and International Conference/Seminar attended
+1	Attended an Orientation course, Bharathiar University, Coimbatore 2016
+2	Attended a Refresher Course, Bharathiar University, Coimbatore 2018
