@@ -1,6 +1,7 @@
  # Quantum Mechanics
- 
+''' 
  I would like to teach basic science through some Python based visuvalizations techniques for School and College Students 
+'''
 ```
 import numpy as np
 import matplotlib.pyplot as plt
