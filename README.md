@@ -60,7 +60,7 @@ Microsoft Windows, and DOS and Linux
 
 ----------------------------------
 
-### Python [Codes](https://github.com/mvku/kirubakaran/blob/master/Python.py){:target="_blank"}
+### Python [Codes](https://github.com/mvku/kirubakaran/blob/master/Python.md){:target="_blank"}
 [Anaconda Python/R Distribution](https://www.anaconda.com/distribution/){:target="_blank"}
 * Scientific Computing (Spyder, Jupyter & Qt Console)
 * Data analytics
