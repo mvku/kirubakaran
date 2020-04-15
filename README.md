@@ -32,8 +32,11 @@ Currently I am working as a Assistant Professor in ANJA College in Sivakasi, I h
 
 
 [Quantum-Mechanics](https://github.com/mvku/Quantum-Mechanics/blob/master/Quantum%20Physics.ipynb){:target="_blank"}
-
+<html>
+<body>
 <img src="/images/qm.png" alt="Trulli" width="200" height="133">
+</body>
+</html>
 
 
 
