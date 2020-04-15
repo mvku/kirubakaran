@@ -31,9 +31,9 @@ Mobile:9789343707
 Currently I am working as a Assistant Professor in ANJA College in Sivakasi, I have done my MPhil research in Physics at Madurai Kamaraj University, Madurai, and completed masters in physics at V.H.N.S.N college, virudhunagar</p>
 
 
-![Particle in a box](/images/qm.png)
-
 [Quantum-Mechanics](https://github.com/mvku/Quantum-Mechanics/blob/master/Quantum%20Physics.ipynb)
+
+![Particle in a box](/images/qm.png)
 
 
 
