@@ -19,12 +19,13 @@
 
 ![kirubha](kiruba.JPG) 
 
+<p style='text-align: justify;'>
 Assistant Professor\
 Ayya Nadar Janaki Ammal College\
 Sivakasi – 626 124, Tamil Nadu, India\
 Email: kirubakaran38@gmail.com\
 Mobile:9789343707
-
+</p>
 
 <p style='text-align: justify;'>
 Currently I am working as a Assistant Professor in ANJA College in Sivakasi, I have done my MPhil research in Physics at Madurai Kamaraj University, Madurai, and completed masters in physics at V.H.N.S.N college, virudhunagar</p>
