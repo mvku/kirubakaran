@@ -55,13 +55,6 @@ Microsoft Windows, and DOS and Linux
 * Mircosoft Word, Excel and Notepad etc
 * [LaTex](https://www.latex-project.org/){:target="_blank"}  
  
------------------------------------
-
-## Web Design & Development 
-* HTML, CSS, 
-* Java Script
-* Server Side
-
 ----------------------------------
  
 ## Language & Software
