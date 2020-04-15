@@ -17,7 +17,7 @@
   </body>
 </html>
 
-![kirubha](kiruba.JPG) ![Particle in a box](images/qm.png)
+![kirubha](kiruba.JPG), ![Particle in a box](images/qm.png)
 
  ![Quantum-Mechanics](https://github.com/mvku/Quantum-Mechanics/blob/master/Quantum%20Physics.ipynb)
 
