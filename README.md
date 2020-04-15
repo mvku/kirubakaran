@@ -20,10 +20,10 @@
 ![kirubha](kiruba.JPG) 
 
 <p style='text-align: justify;'>
-Assistant Professor\
-Ayya Nadar Janaki Ammal College\
-Sivakasi – 626 124, Tamil Nadu, India\
-Email: kirubakaran38@gmail.com\
+Assistant Professor<br /> 
+Ayya Nadar Janaki Ammal College<br /> 
+Sivakasi – 626 124, Tamil Nadu, India<br /> 
+Email: kirubakaran38@gmail.com<br /> 
 Mobile:9789343707
 </p>
 
