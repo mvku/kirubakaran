@@ -33,7 +33,7 @@ Currently I am working as a Assistant Professor in ANJA College in Sivakasi, I h
 
 [Quantum-Mechanics](https://github.com/mvku/Quantum-Mechanics/blob/master/Quantum%20Physics.ipynb)
 
-![Particle in a box](/images/qm.png=250x)
+![Particle in a box](/images/qm.png =250x)
 
 
 
