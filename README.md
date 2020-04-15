@@ -21,7 +21,7 @@
 
 ![Particle in a box](/images/qm.png)
 
-![Quantum-Mechanics](https://github.com/mvku/Quantum-Mechanics/blob/master/Quantum%20Physics.ipynb)
+[Quantum-Mechanics](https://github.com/mvku/Quantum-Mechanics/blob/master/Quantum%20Physics.ipynb)
 
 <p style='text-align: justify;'>
 Assistant Professor<br /> 
