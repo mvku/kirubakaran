@@ -17,7 +17,9 @@
   </body>
 </html>
 
-![kirubha](kiruba.JPG) 
+![kirubha](kiruba.JPG) ![Particle in a box](images/qm.png)
+
+ ![Quantum-Mechanics](https://github.com/mvku/Quantum-Mechanics/blob/master/Quantum%20Physics.ipynb)
 
 <p style='text-align: justify;'>
 Assistant Professor<br /> 
@@ -62,7 +64,7 @@ Microsoft Windows, and DOS and Linux
 
 ----------------------------------
 
-### Python [Codes](https://github.com/mvku/kirubakaran/blob/master/Python.md){:target="_blank"}
+### Python [Codes](https://github.com/mvku/kirubakaran/blob/master/Python.md){:target="_blank"} 
 [Anaconda Python/R Distribution](https://www.anaconda.com/distribution/){:target="_blank"}
 * Scientific Computing (Spyder, Jupyter & Qt Console)
 * Data analytics
