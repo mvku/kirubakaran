@@ -17,7 +17,15 @@
   </body>
 </html>
 
-![kirubha](kiruba.JPG) Assitant Professor, ANJA College, Siva kasi-626124
+![kirubha](kiruba.JPG) 
+
+Assistant Professor
+Ayya Nadar Janaki Ammal College 
+Sivakasi – 626 124, Tamil Nadu, India 
+Email: kirubakaran38@gmail.com
+Mobile:9789343707
+DOB : 14/10/1984
+
 
 
 
@@ -90,9 +98,33 @@ C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programm
 3.	AYYA NADAR JANAKI AMMAL COLLEGE	Member, CDC, ANJAC
 
 ## Scientific Research Publications 
+1.	Synthesis and characterization of copper oxide nano particles prepared by microoven method
+Conference Proceedings, ISBN No:  97881-909344-6-6 (2018)
 
 
 ## National and International Conference/Seminar attended
+
+1.	Two week ISTE Workshop on Engineering Thermodynamics 
+Indian Institute of Technology, Bombay, December11-21(2012) 
+2.	National conference on Emerging multi Disciplinary Trends of NanoTechnology. 
+Department of Physics, Fathima Michael College of Engineering and Technology, Madurai, April 20(2013)
+3.	National conference on “Recent Trends in Physics” organized by Department of Physics, VVV College for Women Virudhunagar, January 03 (2013)
+4.	Seminar on Physics of Plasma organized by Department  of physics V.H.N.S.N. College, Virudhunagar, under the cluster of colleges meeting in physics December 21(2013).
+5.	Two days Faculty workshop on the Art of Counseling organized by Student Support Service, ANJAC,  August 21-22(2014)
+6.	Seminar on Recent Trends in NanoTechnology, organized by Department of Physics, Saiva Bhanu Kshatriya College ,Aruppukottai, August 20(2016).
+7.	Faculty Enrichment Programme on Communicative Skills, organized by Department of English, ANJAC,  March 03(2017).
+8.	Staff Enrichment Programme on Life Skills, organized by Student Support Service, ANJAC,  March 08(2017).
+9.	Faculty Development Programme on Management of Erratic Behaviour 
+Student Support Service, ANJAC,  February  26(2018).
+10.	Staff Development  Programme on Communicative Skills, organized by Department of English, ANJAC,  March 06(2018).
+11.	Faculty Enrichment Programme on Communicative Skills, organized by Department of English, ANJAC,  October 11(2018).
+12.	National Level Workshop on Research Probity and Plagiarism, organized by The Library, ANJAC , January 29(2019).
+13.	National Workshop on Training of Teachers for Student Induction Programme, organized by University Grants Commission, South Eastern Regional Office, Hyderabad, October 30-31(2019).
+14.	Online Workshop on Hands on Training on Solar Study Lamp Assembly,
+Indian Institute of Technology, Bombay,May01-December31(2019)
+15.	National Level Seminar on Current Trends in Physics, organized by Department of Physics, Sree Meenakshi Government college for Women, Madurai, February 05(2020).
+
+## Orientation/Refresher Courses attended
 
 1.	Attended an Orientation course, Bharathiar University, Coimbatore 2016
 
