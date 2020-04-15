@@ -97,10 +97,8 @@ Conference Proceedings, ISBN No:  97881-909344-6-6 (2018)
 
 ## National and International Conference/Seminar attended
 
-1.	Two week ISTE Workshop on Engineering Thermodynamics 
-Indian Institute of Technology, Bombay, December11-21(2012) 
-2.	National conference on Emerging multi Disciplinary Trends of NanoTechnology. 
-Department of Physics, Fathima Michael College of Engineering and Technology, Madurai, April 20(2013)
+1.	Two week ISTE Workshop on Engineering Thermodynamics, Indian Institute of Technology, Bombay, December11-21(2012) 
+2.	National conference on Emerging multi Disciplinary Trends of NanoTechnology. Department of Physics, Fathima Michael College of Engineering and Technology, Madurai, April 20(2013)
 3.	National conference on “Recent Trends in Physics” organized by Department of Physics, VVV College for Women Virudhunagar, January 03 (2013)
 4.	Seminar on Physics of Plasma organized by Department  of physics V.H.N.S.N. College, Virudhunagar, under the cluster of colleges meeting in physics December 21(2013).
 5.	Two days Faculty workshop on the Art of Counseling organized by Student Support Service, ANJAC,  August 21-22(2014)
