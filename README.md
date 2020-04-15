@@ -19,10 +19,6 @@
 
 ![kirubha](kiruba.JPG)
 
-![Particle in a box](/images/qm.png)
-
-[Quantum-Mechanics](https://github.com/mvku/Quantum-Mechanics/blob/master/Quantum%20Physics.ipynb)
-
 <p style='text-align: justify;'>
 Assistant Professor<br /> 
 Ayya Nadar Janaki Ammal College<br /> 
@@ -33,6 +29,13 @@ Mobile:9789343707
 
 <p style='text-align: justify;'>
 Currently I am working as a Assistant Professor in ANJA College in Sivakasi, I have done my MPhil research in Physics at Madurai Kamaraj University, Madurai, and completed masters in physics at V.H.N.S.N college, virudhunagar</p>
+
+
+![Particle in a box](/images/qm.png)
+
+[Quantum-Mechanics](https://github.com/mvku/Quantum-Mechanics/blob/master/Quantum%20Physics.ipynb)
+
+
 
 
 ## Research and Teaching interests
