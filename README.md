@@ -72,7 +72,7 @@ Mobile:9789343707
 <hr class="featurette-divider">
 <div class="row">
   <div class="col-md-6">
- <h5>About</h5>
+ <h4>About</h4>
  <p style='text-align: justify;'>
 Currently I am working as a Assistant Professor in ANJA College in Sivakasi, I have done my MPhil research in Physics at Madurai Kamaraj University, Madurai, and completed masters in physics at V.H.N.S.N college, virudhunagar</p>
 </div>
