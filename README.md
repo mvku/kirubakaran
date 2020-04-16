@@ -74,6 +74,8 @@ Currently I am working as a Assistant Professor in ANJA College in Sivakasi, I h
 
 [Quantum-Mechanics](https://github.com/mvku/Quantum-Mechanics/blob/master/Quantum%20Physics.ipynb){:target="_blank"}
 
+<html>
+<body>
 <div class="blink"><span> Online Class</span></div>
 
 .blink{
@@ -95,6 +97,8 @@ Currently I am working as a Assistant Professor in ANJA College in Sivakasi, I h
 50%{opacity: .5;}
 100%{opacity: 1;}
 }
+</body>
+</html>
 
 ![particle](/images/qm.png)
 
