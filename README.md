@@ -49,7 +49,7 @@ li a:hover {
 <ul>
   <li><a class="active" href="#home">Home</a></li>
   <li><a href="#news">News</a></li>
-  <li><a class="nav-link" href="#contact">Contact</a></li>
+  <li class="nav-item"> <a class="nav-link" href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
   <li><a href="#Videos">Videos</a></li>
 </ul>
