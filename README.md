@@ -49,7 +49,7 @@ li a:hover {
 <ul>
   <li><a class="active" href="#home">Home</a></li>
   <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
+  <li><a class="nav-link" href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
   <li><a href="#Videos">Videos</a></li>
 </ul>
@@ -164,3 +164,13 @@ Indian Institute of Technology, Bombay,May01-December31(2019)
 1.	Attended an Orientation course, Bharathiar University, Coimbatore 2016
 
 2.	Attended a Refresher Course, Bharathiar University, Coimbatore 2018
+
+
+ <h3>Contact</h3>
+ <p><a href="mailto:mvkumar198525@gmail.com">Email To: mvkumar198525@gmail.com</a></p>
+      Assistant Professor<br>
+      Ayya Nadar Janaki Ammal College<br>
+    Sivakasi – 626 124, Tamil Nadu, India<br>
+ Email: kirubakaran38@gmail.com<br>
+ Mobile:9789343707<br>
+	     
