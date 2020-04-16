@@ -24,7 +24,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #85C1E9;
 }
 
 li {
@@ -51,6 +51,7 @@ li a:hover {
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
+  <li><a href="#Videos">Videos</a></li>
 </ul>
 
 </body>
