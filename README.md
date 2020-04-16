@@ -1,5 +1,5 @@
-# Welcome to  R Kirubakaran MSc. MPhil Homepage 
 
+<!DOCTYPE html>
 <html>
   <head>
     <title>Title of the document</title>
@@ -17,7 +17,7 @@
   </body>
 </html>
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
@@ -57,7 +57,7 @@ li a:hover {
 
 </body>
 </html>
-
+# Welcome to  R Kirubakaran MSc. MPhil Homepage 
 
 ![kirubha](kiruba.JPG)
 
