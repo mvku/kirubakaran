@@ -75,12 +75,6 @@ Currently I am working as a Assistant Professor in ANJA College in Sivakasi, I h
 [Quantum-Mechanics](https://github.com/mvku/Quantum-Mechanics/blob/master/Quantum%20Physics.ipynb){:target="_blank"}
 
 ![particle](/images/qm.png)
-<html>
-<body>
-<img src="/images/qm.png" width="200" height="133">
-</body>
-</html>
-
 
 
 ## Research and Teaching interests
