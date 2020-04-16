@@ -75,6 +75,27 @@ Currently I am working as a Assistant Professor in ANJA College in Sivakasi, I h
 [Quantum-Mechanics](https://github.com/mvku/Quantum-Mechanics/blob/master/Quantum%20Physics.ipynb){:target="_blank"}
 
 <div class="blink"><span> Online Class</span></div>
+
+.blink{
+		width:200px;
+		height: 50px;
+	    background-color: magenta;
+		padding: 15px;	
+		text-align: center;
+		line-height: 50px;
+	}
+	span{
+		font-size: 25px;
+		font-family: cursive;
+		color: white;
+		animation: blink 1s linear infinite;
+	}
+@keyframes blink{
+0%{opacity: 0;}
+50%{opacity: .5;}
+100%{opacity: 1;}
+}
+
 ![particle](/images/qm.png)
 
 
