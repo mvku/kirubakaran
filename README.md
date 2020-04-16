@@ -76,7 +76,7 @@ Currently I am working as a Assistant Professor in ANJA College in Sivakasi, I h
 
 <html>
 <body>
-<div class="blink"><span> Online Class</span></div>
+
 
 .blink{
 		width:200px;
@@ -97,6 +97,7 @@ Currently I am working as a Assistant Professor in ANJA College in Sivakasi, I h
 50%{opacity: .5;}
 100%{opacity: 1;}
 }
+<div class="blink"><span> Online Class</span></div>
 </body>
 </html>
 
