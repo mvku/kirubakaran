@@ -47,11 +47,11 @@ li a:hover {
 <body>
 
 <ul>
-  <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
+  <li class="nav-item"><a class="nav-link" href="#home">Home</a></li>
+  <li class="nav-item"><a class="nav-link" href="#news">News</a></li>
   <li class="nav-item"> <a class="nav-link" href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
-  <li><a href="#Videos">Videos</a></li>
+  <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+  <li class="nav-item"><a class="nav-link" href="#Videos">Videos</a></li>
 </ul>
 
 </body>
@@ -68,8 +68,16 @@ Email: kirubakaran38@gmail.com<br />
 Mobile:9789343707
 </p>
 
-<p style='text-align: justify;'>
+<a class="anchor" id="About"></a>
+<hr class="featurette-divider">
+<div class="row">
+  <div class="col-md-6">
+ <h5>About</h5>
+ <p style='text-align: justify;'>
 Currently I am working as a Assistant Professor in ANJA College in Sivakasi, I have done my MPhil research in Physics at Madurai Kamaraj University, Madurai, and completed masters in physics at V.H.N.S.N college, virudhunagar</p>
+</div>
+</div>
+
 
 
 [Quantum-Mechanics](https://github.com/mvku/Quantum-Mechanics/blob/master/Quantum%20Physics.ipynb){:target="_blank"}
