@@ -143,12 +143,12 @@ C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programm
 1.	AYYA NADAR JANAKI AMMAL COLLEGE	Programme officer , World University Service
 2.	AYYA NADAR JANAKI AMMAL COLLEGE	Editorial Assistant, ANJAC Student Magazine for Science
 3.	AYYA NADAR JANAKI AMMAL COLLEGE	Member, CDC, ANJAC
-
+----------------------------------
 ## Scientific Research Publications 
 1.	Synthesis and characterization of copper oxide nano particles prepared by microoven method
 Conference Proceedings, ISBN No:  97881-909344-6-6 (2018)
 
-
+----------------------------------
 ## National and International Conference/Seminar attended
 1.	Two week ISTE Workshop on Engineering Thermodynamics, Indian Institute of Technology, Bombay, December11-21(2012) 
 2.	National conference on Emerging multi Disciplinary Trends of NanoTechnology. Department of Physics, Fathima Michael College of Engineering and Technology, Madurai, April 20(2013)
@@ -167,12 +167,12 @@ Student Support Service, ANJAC,  February  26(2018).
 14.	Online Workshop on Hands on Training on Solar Study Lamp Assembly,
 Indian Institute of Technology, Bombay,May01-December31(2019)
 15.	National Level Seminar on Current Trends in Physics, organized by Department of Physics, Sree Meenakshi Government college for Women, Madurai, February 05(2020).
-
+----------------------------------
 ## Orientation/Refresher Courses attended
 1.	Attended an Orientation course, Bharathiar University, Coimbatore 2016
 2.	Attended a Refresher Course, Bharathiar University, Coimbatore 2018
 
-
+----------------------------------
 <a class="anchor" id="contact"></a>
 <hr class="featurette-divider">
 <div class="row">
