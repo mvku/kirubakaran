@@ -139,7 +139,6 @@ C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programm
 ----------------------------------
 
 ## Membership in Acadamic/Professional Bodies
-
 1.	AYYA NADAR JANAKI AMMAL COLLEGE	Programme officer , World University Service
 2.	AYYA NADAR JANAKI AMMAL COLLEGE	Editorial Assistant, ANJAC Student Magazine for Science
 3.	AYYA NADAR JANAKI AMMAL COLLEGE	Member, CDC, ANJAC
@@ -150,7 +149,6 @@ Conference Proceedings, ISBN No:  97881-909344-6-6 (2018)
 
 
 ## National and International Conference/Seminar attended
-
 1.	Two week ISTE Workshop on Engineering Thermodynamics, Indian Institute of Technology, Bombay, December11-21(2012) 
 2.	National conference on Emerging multi Disciplinary Trends of NanoTechnology. Department of Physics, Fathima Michael College of Engineering and Technology, Madurai, April 20(2013)
 3.	National conference on “Recent Trends in Physics” organized by Department of Physics, VVV College for Women Virudhunagar, January 03 (2013)
@@ -170,9 +168,7 @@ Indian Institute of Technology, Bombay,May01-December31(2019)
 15.	National Level Seminar on Current Trends in Physics, organized by Department of Physics, Sree Meenakshi Government college for Women, Madurai, February 05(2020).
 
 ## Orientation/Refresher Courses attended
-
 1.	Attended an Orientation course, Bharathiar University, Coimbatore 2016
-
 2.	Attended a Refresher Course, Bharathiar University, Coimbatore 2018
 
 
