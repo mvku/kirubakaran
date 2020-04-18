@@ -145,9 +145,10 @@ C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programm
 ----------------------------------
 
 ## Scientific Research Publications 
-* Synthesis and characterization of copper oxide nano particles prepared by microoven method
+<ol>
+<li>  Synthesis and characterization of copper oxide nano particles prepared by microoven method
 Conference Proceedings, ISBN No:  97881-909344-6-6 (2018)
-
+</ol>
 ----------------------------------
 
 ## National and International Conference/Seminar attended
