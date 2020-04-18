@@ -138,6 +138,7 @@ C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programm
 ----------------------------------
 
 ## Membership in Acadamic/Professional Bodies
+
 1.	AYYA NADAR JANAKI AMMAL COLLEGE	Programme officer , World University Service
 2.	AYYA NADAR JANAKI AMMAL COLLEGE	Editorial Assistant, ANJAC Student Magazine for Science
 3.	AYYA NADAR JANAKI AMMAL COLLEGE	Member, CDC, ANJAC
@@ -145,13 +146,14 @@ C-Program, C++, Visual Basic, Quick Basic, Macros, [Aurdino IDE and UNO Programm
 ----------------------------------
 
 ## Scientific Research Publications 
-<ol>
-<li>  Synthesis and characterization of copper oxide nano particles prepared by microoven method
+
+Synthesis and characterization of copper oxide nano particles prepared by microoven method
 Conference Proceedings, ISBN No:  97881-909344-6-6 (2018)
-</ol>
+
 ----------------------------------
 
 ## National and International Conference/Seminar attended
+
 *	Two week ISTE Workshop on Engineering Thermodynamics, Indian Institute of Technology, Bombay, December11-21(2012) 
 *	National conference on Emerging multi Disciplinary Trends of NanoTechnology. Department of Physics, Fathima Michael College of Engineering and Technology, Madurai, April 20(2013)
 *	National conference on “Recent Trends in Physics” organized by Department of Physics, VVV College for Women Virudhunagar, January 03 (2013)
@@ -173,6 +175,7 @@ Indian Institute of Technology, Bombay,May01-December31(2019)
 ----------------------------------
 
 ## Orientation/Refresher Courses attended
+
 *	Attended an Orientation course, Bharathiar University, Coimbatore 2016
 *	Attended a Refresher Course, Bharathiar University, Coimbatore 2018
 
