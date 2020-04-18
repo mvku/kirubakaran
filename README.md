@@ -71,7 +71,7 @@ Mobile:9789343707
 <a class="anchor" id="About"></a>
 <hr class="featurette-divider">
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-md-4">
  <h4>About</h4>
  <p style='text-align: justify;'>
 Currently I am working as a Assistant Professor in ANJA College in Sivakasi, I have done my MPhil research in Physics at Madurai Kamaraj University, Madurai, and completed masters in physics at V.H.N.S.N college, virudhunagar</p>
@@ -177,7 +177,7 @@ Indian Institute of Technology, Bombay,May01-December31(2019)
 <hr class="featurette-divider">
 <div class="row">
   <div class="col-md-6">
- <h3>Contact</h3>
+ <h6>Contact</h6>
  <p><a href="mailto:kirubakaran38@gmail.com">Email To: kirubakaran38@gmail.com</a></p>
  Assistant Professor<br>
  Ayya Nadar Janaki Ammal College<br>
