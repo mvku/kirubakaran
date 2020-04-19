@@ -20,7 +20,7 @@
 <head>
 <style>
 ul {
-  list-style-type: none;
+  list-style-type: circle;
   margin: 0;
   padding: 0;
   overflow: hidden;
