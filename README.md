@@ -40,7 +40,7 @@ li a {
 }
 
 li a:hover {
-  background-color: #1B4F72;
+  background-color: #252481;
 }
 </style>
 </head>
